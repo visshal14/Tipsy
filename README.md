@@ -10,5 +10,8 @@ Tipsy is a app for iOS device to calculate Tips.
 <img width="384" alt="Screenshot 2023-02-19 at 6 12 05 PM" src="https://user-images.githubusercontent.com/55635350/219948931-3c36ef00-ccf9-4571-9169-e872e514983c.png">
 
 
-https://user-images.githubusercontent.com/55635350/219948980-e35d9154-d8de-4e69-8cdd-a457a4d17882.mov
+
+
+
+https://user-images.githubusercontent.com/55635350/219949036-441ba2be-fd3e-4301-a92c-d8c37f3218b6.mov
 
